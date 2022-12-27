@@ -1,8 +1,8 @@
 0 :
     OUR_NAME : ""
     NAME : ""
-    TYPE : 
-    RELIGION : 
+    TYPE : ""
+    RELIGION : ""
     ATTACK : 
     DEFENSE : 
     HEALTH : 
@@ -13,8 +13,8 @@
 1 :
     OUR_NAME : "God"
     NAME : "יהוה"
-    TYPE : deity
-    RELIGION : christianity
+    TYPE : "deity"
+    RELIGION : "christianity"
     ATTACK : 500
     DEFENSE : 100
     HEALTH : 1200
@@ -27,8 +27,8 @@
 2 :
     OUR_NAME : "Holy Spirit"
     NAME : "רוח הקודש"
-    TYPE : deity
-    RELIGION : christianity
+    TYPE : "deity"
+    RELIGION : "christianity"
     ATTACK : 420
     DEFENSE : 105
     HEALTH : 1100
@@ -41,8 +41,8 @@
 3 :
     OUR_NAME : "Jesus"
     NAME : "יֵשׁוּעַ"
-    TYPE : deity
-    RELIGION : christianity
+    TYPE : "deity"
+    RELIGION : "christianity"
     ATTACK : 350
     DEFENSE : 130
     HEALTH : 1000
@@ -55,8 +55,8 @@
 4 :
     OUR_NAME : "Mary"
     NAME : "מרים"
-    TYPE : prophet
-    RELIGION : christianity
+    TYPE : "prophet"
+    RELIGION : "christianity"
     ATTACK : 350
     DEFENSE : 25
     HEALTH : 800
@@ -67,8 +67,8 @@
 5 :
     OUR_NAME : "Mark"
     NAME : "מרקוס"
-    TYPE : prophet
-    RELIGION : christianity
+    TYPE : "prophet"
+    RELIGION : "christianity"
     ATTACK : 250
     DEFENSE : 50
     HEALTH : 600
@@ -76,24 +76,11 @@
         "vangelo"
     )
     DESCRIPTION : ""
-6 :
-    OUR_NAME : ""
-    NAME : "Luca"
-    TYPE : prophet
-    RELIGION : christianity
-    ATTACK : 250
-    DEFENSE : 50
-    HEALTH : 600
-    MOVE_SET : .(
-        "vangelo"
-        "medico"
-    )
-    DESCRIPTION : "Un normale evangelista, prima era medico, poi ha cambiato lavoro."
 7 :
     OUR_NAME : "Luke"
     NAME : "Λουκάς"
-    TYPE : prophet
-    RELIGION : christianity
+    TYPE : "prophet"
+    RELIGION : "christianity"
     ATTACK : 250
     DEFENSE : 50
     HEALTH : 600
@@ -104,8 +91,8 @@
 8 :
     OUR_NAME : "Zacchaeus"
     NAME : "זכי"
-    TYPE : unholy
-    RELIGION : christianity
+    TYPE : "unholy"
+    RELIGION : "christianity"
     ATTACK : 200
     DEFENSE : 20
     HEALTH : 500
@@ -116,8 +103,8 @@
 9 :
     OUR_NAME : "Ḥawwā"
     NAME : "حواء"
-    TYPE : unholy
-    RELIGION : islam
+    TYPE : "unholy"
+    RELIGION : "islam"
     ATTACK : 30
     DEFENSE : 40
     HEALTH : 0
@@ -127,8 +114,8 @@
 A :
     OUR_NAME : "Allah"
     NAME : "اَلله"
-    TYPE : deity
-    RELIGION : islam
+    TYPE : "deity"
+    RELIGION : "islam"
     ATTACK : 40
     DEFENSE : 110
     HEALTH : 0
@@ -138,8 +125,8 @@ A :
 B :
     OUR_NAME : "Jesus"
     NAME : "عِيسَى ٱبْنُ مَرْيَمَ"
-    TYPE : prophet
-    RELIGION : islam
+    TYPE : "prophet"
+    RELIGION : "islam"
     ATTACK : 45
     DEFENSE : 33
     HEALTH : 0
@@ -149,8 +136,8 @@ B :
 C :
     OUR_NAME : "Muhammad"
     NAME : "مُحَمَّد"
-    TYPE : prophet
-    RELIGION : islam
+    TYPE : "prophet"
+    RELIGION : "islam"
     ATTACK : 35
     DEFENSE : 45
     HEALTH : 0
@@ -160,8 +147,8 @@ C :
 D :
     OUR_NAME : "Saint Matthew"
     NAME : "מַתִּתְיָהוּ"
-    TYPE : prophet
-    RELIGION : christianity
+    TYPE : "prophet"
+    RELIGION : "christianity"
     ATTACK : 250
     DEFENSE : 50
     HEALTH : 600
