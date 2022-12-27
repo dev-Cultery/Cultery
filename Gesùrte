@@ -1,0 +1,106 @@
+0 :
+    NAME : ""
+    TYPE : 
+    RELIGION : 
+    ATTACK : 
+    DEFENSE : 
+    HEALTH : 
+    MOVE_SET : .(
+        ""
+    )
+    DESCRIPTION : ""
+1 :
+    NAME : "Dio"
+    TYPE : deity
+    RELIGION : christianity
+    ATTACK : 500
+    DEFENSE : 100
+    HEALTH : 1200
+    MOVE_SET : Satanosse.(
+        "creazione del mondo"
+        "cespuglio"
+        "Sodoma e Gomorra"
+    )
+    DESCRIPTION : "Il suo vero nome è Jahvè, ma la maggior parte dei cristiani non lo sa.\nPer gli amici è semplicemente Dio."
+2 :
+    NAME : "Spirito Santo"
+    TYPE : deity
+    RELIGION : christianity
+    ATTACK : 420
+    DEFENSE : 105
+    HEALTH : 1100
+    MOVE_SET : .(
+        "fuoco dal cielo"
+        "colomba della pace"
+        "plurilinguismo"
+    )
+    DESCRIPTION : "La parte più ambigua della santa Trinità, non ha forma né colore, ma sta intorno a noi anche se non lo percepiamo."
+3 :
+    NAME : "Gesù"
+    TYPE : deity
+    RELIGION : christianity
+    ATTACK : 350
+    DEFENSE : 130
+    HEALTH : 1000
+    MOVE_SET : .(
+        "resurrezione"
+        "pani e pesci"
+        "ultima cena"
+    )
+    DESCRIPTION : "Il classico Gesù Cristo, con croce, corona di spine e tutto il resto…"
+4 :
+    NAME : "Madonna"
+    TYPE : prophet
+    RELIGION : christianity
+    ATTACK : 350
+    DEFENSE : 25
+    HEALTH : 800
+    MOVE_SET : .(
+        "immacolata concezione"
+    )
+    DESCRIPTION : "La Madonna, l'immacolata e vergine Maria, non esiste niente di più santo e vergine."
+5 :
+    NAME : "Marco"
+    TYPE : prophet
+    RELIGION : christianity
+    ATTACK : 250
+    DEFENSE : 50
+    HEALTH : 600
+    MOVE_SET : .(
+        "vangelo"
+    )
+    DESCRIPTION : ""
+6 :
+    NAME : "Luca"
+    TYPE : prophet
+    RELIGION : christianity
+    ATTACK : 250
+    DEFENSE : 50
+    HEALTH : 600
+    MOVE_SET : .(
+        "vangelo"
+        "medico"
+    )
+    DESCRIPTION : "Un normale evangelista, prima era medico, poi ha cambiato lavoro."
+7 :
+    NAME : "Giovanni"
+    TYPE : prophet
+    RELIGION : christianity
+    ATTACK : 250
+    DEFENSE : 50
+    HEALTH : 600
+    MOVE_SET : .(
+        "vangelo"
+    )
+    DESCRIPTION : ""
+8 :
+    NAME : "Giovanni"
+    TYPE : prophet
+    RELIGION : christianity
+    ATTACK : 250
+    DEFENSE : 50
+    HEALTH : 600
+    MOVE_SET : .(
+        "vangelo"
+    )
+    DESCRIPTION : ""
