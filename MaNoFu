@@ -1,1 +1,4 @@
-Cultery
+when game_open
+    execute schermata_caricamento
+schermata main
+    
