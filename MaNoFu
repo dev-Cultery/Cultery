@@ -1,4 +1,12 @@
 when game_open
-    execute schermata_caricamento
-schermata main
-    
+    execute loading_screen
+screen "main"
+    btn ( position : top lt ) ( img : img."settings" ) ( name : btn."settings" ) ( when click : execute display screen."settings" )
+    btn ( position : top rt ) ( img : img."stats" ) ( name : btn."stats" ) ( when click : execute display screen."stats" )
+    btn ( position : top center /* sotto btn*/ ) ( img : img."religionPoints" ) ( name : btn."religionPoints" ) ( inside : execute visualize "religionPoints)
+    nav ( position : mid )
+        btn ( img : img."playOnLine" ) ( name : btn."PlayOnLine" ) ( when click : execute display screen."playOnLine" )
+        btn ( img : img."playLocal" ) ( name : btn."playLocal" ) ( when click : execute display screen."playLocal" )
+
+screen "settings" @@@@@@@@@@@
+screan "stats" @@@@@@@@@@@
