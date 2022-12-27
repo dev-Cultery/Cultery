@@ -1,5 +1,5 @@
 0 :
-    TRANSLATED_NAME : ""
+    OUR_NAME : ""
     NAME : ""
     TYPE : 
     RELIGION : 
@@ -11,7 +11,7 @@
     )
     DESCRIPTION : ""
 1 :
-    TRANSLATED_NAME : "God"
+    OUR_NAME : "God"
     NAME : "יהוה"
     TYPE : deity
     RELIGION : christianity
@@ -25,7 +25,7 @@
     )
     DESCRIPTION : "Il suo vero nome è Jahvè, ma la maggior parte dei cristiani non lo sa.\nPer gli amici è semplicemente Dio."
 2 :
-    TRANSLATED_NAME : "Holy Spirit"
+    OUR_NAME : "Holy Spirit"
     NAME : "רוח הקודש"
     TYPE : deity
     RELIGION : christianity
@@ -39,7 +39,7 @@
     )
     DESCRIPTION : "La parte più ambigua della santa Trinità, non ha forma né colore, ma sta intorno a noi anche se non lo percepiamo."
 3 :
-    TRANSLATED_NAME : "Jesus"
+    OUR_NAME : "Jesus"
     NAME : "יֵשׁוּעַ"
     TYPE : deity
     RELIGION : christianity
@@ -53,7 +53,7 @@
     )
     DESCRIPTION : "Il classico Gesù Cristo, con croce, corona di spine e tutto il resto…"
 4 :
-    TRANSLATED_NAME : "Mary"
+    OUR_NAME : "Mary"
     NAME : "מרים"
     TYPE : prophet
     RELIGION : christianity
@@ -65,7 +65,7 @@
     )
     DESCRIPTION : "La Madonna, l'immacolata e vergine Maria, non esiste niente di più santo e vergine."
 5 :
-    TRANSLATED_NAME : "Mark"
+    OUR_NAME : "Mark"
     NAME : "מרקוס"
     TYPE : prophet
     RELIGION : christianity
@@ -77,7 +77,7 @@
     )
     DESCRIPTION : ""
 6 :
-    TRANSLATED_NAME : ""
+    OUR_NAME : ""
     NAME : "Luca"
     TYPE : prophet
     RELIGION : christianity
@@ -90,7 +90,7 @@
     )
     DESCRIPTION : "Un normale evangelista, prima era medico, poi ha cambiato lavoro."
 7 :
-    TRANSLATED_NAME : "Luke"
+    OUR_NAME : "Luke"
     NAME : "Λουκάς"
     TYPE : prophet
     RELIGION : christianity
@@ -102,7 +102,7 @@
     )
     DESCRIPTION : ""
 8 :
-    TRANSLATED_NAME : "Zacchaeus"
+    OUR_NAME : "Zacchaeus"
     NAME : "זכי"
     TYPE : unholy
     RELIGION : christianity
@@ -114,7 +114,7 @@
     )
     DESCRIPTION : "Zaccheo, scendi dal sicomoro!"
 9 :
-    TRANSLATED_NAME : "Ḥawwā"
+    OUR_NAME : "Ḥawwā"
     NAME : "حواء"
     TYPE : unholy
     RELIGION : islam
@@ -125,7 +125,7 @@
     )
     DESCRIPTION : ""
 A :
-    TRANSLATED_NAME : "Allah"
+    OUR_NAME : "Allah"
     NAME : "اَلله"
     TYPE : deity
     RELIGION : islam
@@ -136,7 +136,7 @@ A :
     )
     DESCRIPTION : ""
 B :
-    TRANSLATED_NAME : "Jesus"
+    OUR_NAME : "Jesus"
     NAME : "عِيسَى ٱبْنُ مَرْيَمَ"
     TYPE : prophet
     RELIGION : islam
@@ -147,7 +147,7 @@ B :
     )
     DESCRIPTION : ""
 C :
-    TRANSLATED_NAME : "Muhammad"
+    OUR_NAME : "Muhammad"
     NAME : "مُحَمَّد"
     TYPE : prophet
     RELIGION : islam
@@ -158,7 +158,7 @@ C :
     )
     DESCRIPTION : ""
 D :
-    TRANSLATED_NAME : "Saint Matthew"
+    OUR_NAME : "Saint Matthew"
     NAME : "מַתִּתְיָהוּ"
     TYPE : prophet
     RELIGION : christianity
