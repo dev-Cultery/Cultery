@@ -5,8 +5,6 @@
 	EXPANSE_DEITY :
 	EXPANSE_PROPHET :
 	EXPANSE_UNHOLY :
-	DESCRIPTION : ""
-	EARNEST_DESCRIPTION : ""
 	JESARD : /* Gesùrta */
 		"" :
 			NAME : ""
@@ -19,6 +17,18 @@
 			EARNEST_DESCRIPTION : ""
 			MOVE :
 				Satanossa.""
+	SATANOVEGION : /* Satanossagione */
+		"" :
+			FULL_NAME : ""
+			COST :
+			EFFECT_ITSELF :
+				""
+			EFFECT_OPPONENT :
+				""
+			DESCRIPTION : ""
+			EARNEST_DESCRIPTION : ""
+	DESCRIPTION : ""
+	EARNEST_DESCRIPTION : ""
 "christianity" :
 	FULL_NAME : "christianity"
 	POINT.JIHAD : 250
@@ -26,8 +36,6 @@
 	EXPANSE_DEITY : 300
 	EXPANSE_PROPHET : 500
 	EXPANSE_UNHOLY : 900
-	DESCRIPTION : "La religione più famosa del mondo. Una pietra miliare tra i monoteismi. Vinci la guerra santa a suon di roghi e crociate!"
-	EARNEST_DESCRIPTION : "@@"
 	JESARD :
 		"God" :
 			NAME : "יהוה"
@@ -136,6 +144,45 @@
 			MOVE :
 				Satanossa."vangelo"
 				Satanossa."esattore"
+	SATANOVEGION :
+		"crociata" :
+			FULL_NAME : "crociata"
+			COST : @@
+			EFFECT_ITSELF :
+				"Porta vita del personaggio a 100."
+				"Guadagna punti jihad quanti di vita persi."
+			EFFECT_OPPONENT : none
+			DESCRIPTION : "Contribuisci al sogno di Papa Urbano II a suon di saccheggi e crociati morti di fame!"
+			EARNEST_DESCRIPTION : "@@"
+		"catechismo" :
+			FULL_NAME : "catechismo"
+			COST : 300
+			EFFECT_ITSELF : @@
+			EFFECT_OPPONENT :
+				"Diminuisce attacco personaggio del 40%."
+			DESCRIPTION : "Indottrina i bambini a seguire la tua religione! (Iniziare a 6 anni potrebbe già essere troppo tardi!)"
+			EARNEST_DESCRIPTION : "@@"
+		"rogo" :
+			FULL_NAME : "rogo"
+			COST : 180
+			EFFECT_ITSELF : none
+			EFFECT_OPPONENT :
+				"Diminuisce vita personaggio del 10%."
+				"Diminuisce scudo personaggio del 100%."
+			DESCRIPTION : "Quella donna è una strega! Bruciatela!!"
+			EARNEST_DESCRIPTION : "@@"
+		"vendita indulgenze" :
+			FULL_NAME : "vendita delle indulgenze"
+			COST : @@
+			EFFECT_ITSELF :
+				"Guadagna dall'avversario i punti jihad persi."
+			EFFECT_OPPONENT :
+				"Aumenta lo scudo del 60%."
+				"Perde il 60% dei punti jihad."
+			DESCRIPTION : "Il paradiso non sempre ha spazio per i poveri!"
+			EARNEST_DESCRIPTION : "@@"
+	DESCRIPTION : "La religione più famosa del mondo. Una pietra miliare tra i monoteismi. Vinci la guerra santa a suon di roghi e crociate!"
+	EARNEST_DESCRIPTION : "@@"
 "islam" :
     FULL_NAME : "islam"
     POINT.JIHAD : 300
@@ -143,8 +190,6 @@
     EXPANSE_DEITY : 250
     EXPANSE_PROPHET : 500
     EXPANSE_UNHOLY : 1100
-    DESCRIPTION : "@@"
-	EARNEST_DESCRIPTION : "@@"
 	JESARD :
 		"Ḥawwā" :
 			NAME : "حواء"
@@ -186,6 +231,9 @@
 			DESCRIPTION : "@@"
 			EARNEST_DESCRIPTION : "@@"
 			MOVE : @@
+	SATANOVEGION : @@
+    DESCRIPTION : "@@"
+	EARNEST_DESCRIPTION : "@@"
 "ebraismo" :
 	FULL_NAME : "ebraismo"
 	POINT.JIHAD : @@
@@ -193,9 +241,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "giudaismo" :
 	FULL_NAME : "giudaismo"
 	POINT.JIHAD : @@
@@ -203,9 +252,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "induismo" :
 	FULL_NAME : "induismo"
 	POINT.JIHAD : @@
@@ -213,9 +263,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "buddhismo" :
 	FULL_NAME : "buddhismo"
 	POINT.JIHAD : @@
@@ -223,9 +274,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "taoismo" :
 	FULL_NAME : "taoismo"
 	POINT.JIHAD : @@
@@ -233,9 +285,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "shinto" :
 	FULL_NAME : "shinto"
 	POINT.JIHAD : @@
@@ -243,9 +296,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "confucianesimo" :
 	FULL_NAME : "confucianesimo"
 	POINT.JIHAD : @@
@@ -253,9 +307,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "sciamanesimo coreano" :
 	FULL_NAME : "sciamanesimo coreano"
 	POINT.JIHAD : @@
@@ -263,9 +318,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "caodaismo" :
 	FULL_NAME : "caodaismo"
 	POINT.JIHAD : @@
@@ -273,9 +329,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "bahá'í" :
 	FULL_NAME : "bahá'í"
 	POINT.JIHAD : @@
@@ -283,9 +340,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "tenriismo" :
 	FULL_NAME : "tenriismo"
 	POINT.JIHAD : @@
@@ -293,9 +351,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "giainismo" :
 	FULL_NAME : "giainismo"
 	POINT.JIHAD : @@
@@ -303,9 +362,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "ceondoismo" :
 	FULL_NAME : "ceondoismo"
 	POINT.JIHAD : @@
@@ -313,9 +373,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "hoahaoismo" :
 	FULL_NAME : "hoahaoismo"
 	POINT.JIHAD : @@
@@ -323,9 +384,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "zoroastrismo" :
 	FULL_NAME : "zoroastrismo"
 	POINT.JIHAD : @@
@@ -333,9 +395,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "ateismo" :
 	FULL_NAME : ""
 	POINT.JIHAD : @@
@@ -343,9 +406,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "Religione nella quale i fedeli dicono di non appartenere ad alcuna religione."
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "scientismo" :
 	FULL_NAME : "scientismo"
 	POINT.JIHAD : @@
@@ -353,9 +417,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "googlismo" :
 	FULL_NAME : "googlismo"
 	POINT.JIHAD : @@
@@ -363,9 +428,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "sikhismo" :
 	FULL_NAME : "sikhismo"
 	POINT.JIHAD : @@
@@ -373,9 +439,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "drusismo" :
 	FULL_NAME : "drusismo"
 	POINT.JIHAD : @@
@@ -383,9 +450,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "samaritanesimo" :
 	FULL_NAME : "samaritanesimo"
 	POINT.JIHAD : @@
@@ -393,9 +461,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "rastafarianesimo" :
 	FULL_NAME : "rastafarianesimo"
 	POINT.JIHAD : @@
@@ -403,9 +472,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "yazdanesimo" :
 	FULL_NAME : "yazdanesimo"
 	POINT.JIHAD : @@
@@ -413,9 +483,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "mandeismo" :
 	FULL_NAME : "mandeismo"
 	POINT.JIHAD : @@
@@ -423,9 +494,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "religione popolare cinese" :
 	FULL_NAME : "religione popolare cinese"
 	POINT.JIHAD : @@
@@ -433,9 +505,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "tenrikyō" :
 	FULL_NAME : "tenrikyō"
 	POINT.JIHAD : @@
@@ -443,9 +516,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "religione delle ryūkyū" :
 	FULL_NAME : "religione delle ryūkyū"
 	POINT.JIHAD : @@
@@ -453,9 +527,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "ikuantao" :
 	FULL_NAME : "ikuantao"
 	POINT.JIHAD : @@
@@ -463,9 +538,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "dongba" :
 	FULL_NAME : "dongba"
 	POINT.JIHAD : @@
@@ -473,9 +549,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "via romana agli dei" :
 	FULL_NAME : "via romana agli dei"
 	POINT.JIHAD : @@
@@ -483,9 +560,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "romuva" :
 	FULL_NAME : "romuva"
 	POINT.JIHAD : @@
@@ -493,9 +571,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "dievturiba" :
 	FULL_NAME : "dievturiba"
 	POINT.JIHAD : @@
@@ -503,9 +582,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "chiesa del popolo guancio" :
 	FULL_NAME : "chiesa del popolo guancio"
 	POINT.JIHAD : @@
@@ -513,9 +593,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "hetanesimo" :
 	FULL_NAME : "hetanesimo"
 	POINT.JIHAD : @@
@@ -523,9 +604,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "animismo" :
 	FULL_NAME : "animismo"
 	POINT.JIHAD : @@
@@ -533,9 +615,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "sciamanesimo" :
 	FULL_NAME : "sciamanesimo"
 	POINT.JIHAD : @@
@@ -543,9 +626,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "totemismo" :
 	FULL_NAME : "totemismo"
 	POINT.JIHAD : @@
@@ -553,9 +637,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "feticismo" :
 	FULL_NAME : "feticismo"
 	POINT.JIHAD : @@
@@ -563,9 +648,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "culto degli antenati" :
 	FULL_NAME : "culto degli antenati"
 	POINT.JIHAD : @@
@@ -573,9 +659,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "modewiwin" :
 	FULL_NAME : "modewiwin"
 	POINT.JIHAD : @@
@@ -583,9 +670,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "tengrismo" :
 	FULL_NAME : "tengrismo"
 	POINT.JIHAD : @@
@@ -593,9 +681,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "manituismo" :
 	FULL_NAME : "manituismo"
 	POINT.JIHAD : @@
@@ -603,9 +692,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "peyotismo" :
 	FULL_NAME : "peyotismo"
 	POINT.JIHAD : @@
@@ -613,9 +703,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "danza degli spiriti" :
 	FULL_NAME : "danza degli spiriti"
 	POINT.JIHAD : @@
@@ -623,9 +714,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "maya" :
 	FULL_NAME : "maya"
 	POINT.JIHAD : @@
@@ -633,9 +725,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "marla" :
 	FULL_NAME : "marla"
 	POINT.JIHAD : @@
@@ -643,9 +736,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "sami" :
 	FULL_NAME : "sami"
 	POINT.JIHAD : @@
@@ -653,9 +747,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "mitologia inuit" :
 	FULL_NAME : "mitologia inuit"
 	POINT.JIHAD : @@
@@ -663,9 +758,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "mitologia hawaiana" :
 	FULL_NAME : "mitologia hawaiana"
 	POINT.JIHAD : @@
@@ -673,9 +769,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "culti aborigeni australiani" :
 	FULL_NAME : "culti aborigeni australiani"
 	POINT.JIHAD : @@
@@ -683,9 +780,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "culti malgasci" :
 	FULL_NAME : "culti malgasci"
 	POINT.JIHAD : @@
@@ -693,9 +791,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "bantu" :
 	FULL_NAME : "bantu"
 	POINT.JIHAD : @@
@@ -703,9 +802,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "yoruba" :
 	FULL_NAME : "yoruba"
 	POINT.JIHAD : @@
@@ -713,9 +813,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "bwiti" :
 	FULL_NAME : "bwiti"
 	POINT.JIHAD : @@
@@ -723,9 +824,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "odinani" :
 	FULL_NAME : "odinani"
 	POINT.JIHAD : @@
@@ -733,9 +835,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "masai" :
 	FULL_NAME : "masai"
 	POINT.JIHAD : @@
@@ -743,9 +846,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "ju-ju" :
 	FULL_NAME : "ju-ju"
 	POINT.JIHAD : @@
@@ -753,9 +857,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "vudù" :
 	FULL_NAME : "vudù"
 	POINT.JIHAD : @@
@@ -763,9 +868,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "candomblé" :
 	FULL_NAME : "candomblé"
 	POINT.JIHAD : @@
@@ -773,9 +879,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "obeah" :
 	FULL_NAME : "obeah"
 	POINT.JIHAD : @@
@@ -783,9 +890,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "palo" :
 	FULL_NAME : "palo"
 	POINT.JIHAD : @@
@@ -793,9 +901,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "santeria" :
 	FULL_NAME : "santeria"
 	POINT.JIHAD : @@
@@ -803,9 +912,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "satanismo" :
 	FULL_NAME : "satanismo"
 	POINT.JIHAD : @@
@@ -813,9 +923,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "neopaganesimo" :
 	FULL_NAME : "neopaganesimo"
 	POINT.JIHAD : @@
@@ -823,9 +934,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "wicca" :
 	FULL_NAME : "wicca"
 	POINT.JIHAD : @@
@@ -833,9 +945,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "FSM" :
 	FULL_NAME : "pastafarianesimo"
 	POINT.JIHAD : @@
@@ -843,9 +956,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "new age" :
 	FULL_NAME : "new age"
 	POINT.JIHAD : @@
@@ -853,9 +967,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "nuovo pensiero" :
 	FULL_NAME : "nuovo pensiero"
 	POINT.JIHAD : @@
@@ -863,9 +978,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "È una religione.@@"
-	JESARD : @@
 "raelismo" :
 	FULL_NAME : "raelismo"
 	POINT.JIHAD : @@
@@ -873,9 +989,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "thelema" :
 	FULL_NAME : "thelema"
 	POINT.JIHAD : @@
@@ -883,9 +1000,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "scientology" :
 	FULL_NAME : "scientology"
 	POINT.JIHAD : @@
@@ -893,9 +1011,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "Diverso dal scientismo.@@"
-	JESARD : @@
 "UU" :
 	FULL_NAME : "unitariani universalisti"
 	POINT.JIHAD : @@
@@ -903,9 +1022,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "ECK" :
 	FULL_NAME : "eckankar"
 	POINT.JIHAD : @@
@@ -913,9 +1033,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "mitologia greca antica" :
 	FULL_NAME : "mitologia greca antica"
 	POINT.JIHAD : @@
@@ -923,9 +1044,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "mitologia egizia antica" :
 	FULL_NAME : "mitologia egizia antica"
 	POINT.JIHAD : @@
@@ -933,9 +1055,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "TOPY" :
 	FULL_NAME : "T.O.P.Y."
 	POINT.JIHAD : @@
@@ -943,9 +1066,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "(Thee Temple ov Psychick Youth)@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "invisibile unicorno rosa" :
 	FULL_NAME : "invisibile unicorno rosa"
 	POINT.JIHAD : @@
@@ -953,9 +1077,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "(Voluntary Human Extinction Movement)@@" /*La sigla è di questo o della religione VHEMT ??? */
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "VHEMT" :
 	FULL_NAME : "VHEMT"
 	POINT.JIHAD : @@
@@ -963,9 +1088,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "religione dello jedi" :
 	FULL_NAME : "religione dello jedi"
 	POINT.JIHAD : @@
@@ -973,9 +1099,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "iglesia maradoniana" :
 	FULL_NAME : "iglesia maradoniana"
 	POINT.JIHAD : @@
@@ -983,9 +1110,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "teiera gigante" :
 	FULL_NAME : "culto della teiera gigante"
 	POINT.JIHAD : @@
@@ -993,9 +1121,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "Villaggio con case fatte a ombrelli e colonne greche.@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "KKK" :
 	FULL_NAME : "ku klux klan"
 	POINT.JIHAD : @@
@@ -1003,9 +1132,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "i bambini di Dio" :
 	FULL_NAME : "i bambini di Dio"
 	POINT.JIHAD : @@
@@ -1013,9 +1143,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "Forse questa non va bene (pedofilia+sesso).@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "illuminati bavaresi" :
 	FULL_NAME : "illuminati bavaresi"
 	POINT.JIHAD : @@
@@ -1023,9 +1154,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "Aum Shinrikyo" :
 	FULL_NAME : "Aum Shinrikyo"
 	POINT.JIHAD : @@
@@ -1033,9 +1165,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "Il tempio del popolo dei discepoli di Cristo" :
 	FULL_NAME : "Il tempio del popolo dei discepoli di Cristo"
 	POINT.JIHAD : @@
@@ -1043,9 +1176,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "Forse questa non va bene (razzista contro neri e donne).@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "heaven's gate" :
 	FULL_NAME : "heaven’s gate"
 	POINT.JIHAD : @@
@@ -1053,9 +1187,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "la chiesa dell’eutanasia" :
 	FULL_NAME : "la chiesa dell'eutanasia"
 	POINT.JIHAD : @@
@@ -1063,9 +1198,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "ordine del tempio solare" :
 	FULL_NAME : "ordine del tempio solare"
 	POINT.JIHAD : @@
@@ -1073,9 +1209,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "#pizzagate" :
 	FULL_NAME : "#pizzagate"
 	POINT.JIHAD : @@
@@ -1083,9 +1220,10 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "Movimento contro le pizzerie basato sulla credenza di uno schiavismo collegato a esse.@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
 "oth" :
 	FULL_NAME : "other religions"
 	POINT.JIHAD : @@
@@ -1093,6 +1231,7 @@
 	EXPANSE_DEITY : @@
 	EXPANSE_PROPHET : @@
 	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
 	DESCRIPTION : "Other religions.@@"
 	EARNEST_DESCRIPTION : "@@"
-	JESARD : @@
