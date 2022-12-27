@@ -184,12 +184,12 @@
 	DESCRIPTION : "La religione più famosa del mondo. Una pietra miliare tra i monoteismi. Vinci la guerra santa a suon di roghi e crociate!"
 	EARNEST_DESCRIPTION : "@@"
 "islam" :
-    FULL_NAME : "islam"
-    POINT.JIHAD : 300
-    POINT.JIHAD.BASIC : 500
-    EXPANSE_DEITY : 250
-    EXPANSE_PROPHET : 500
-    EXPANSE_UNHOLY : 1100
+	FULL_NAME : "islam"
+	POINT.JIHAD : 300
+	POINT.JIHAD.BASIC : 500
+	EXPANSE_DEITY : 250
+	EXPANSE_PROPHET : 500
+	EXPANSE_UNHOLY : 1100
 	JESARD :
 		"Ḥawwā" :
 			NAME : "حواء"
