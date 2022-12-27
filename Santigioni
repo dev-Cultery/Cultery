@@ -39,7 +39,7 @@
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 5 :
-    NAME : ""
+    NAME : "induismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -47,7 +47,7 @@
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 6 :
-    NAME : ""
+    NAME : "buddhismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -55,7 +55,7 @@
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 7 :
-    NAME : ""
+    NAME : "taoismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -63,7 +63,7 @@
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 8 :
-    NAME : ""
+    NAME : "shinto"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -71,7 +71,7 @@
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 9 :
-    NAME : ""
+    NAME : "confucianesimo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -79,7 +79,7 @@
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 A :
-    NAME : ""
+    NAME : "sciamanesimo coreano"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -87,7 +87,7 @@ A :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 B :
-    NAME : ""
+    NAME : "caodaismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -95,7 +95,7 @@ B :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 C :
-    NAME : ""
+    NAME : "bahá'í"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -103,7 +103,7 @@ C :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 D :
-    NAME : ""
+    NAME : "tenriismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -111,7 +111,7 @@ D :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 E :
-    NAME : ""
+    NAME : "giainismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -119,7 +119,7 @@ E :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 F :
-    NAME : ""
+    NAME : "ceondoismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -127,7 +127,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 10 :
-    NAME : ""
+    NAME : "hoahaoismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -135,7 +135,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 11 :
-    NAME : ""
+    NAME : "zoroastrismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -143,15 +143,15 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 12 :
-    NAME : ""
+    NAME : "ateismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "Religione nella quale i fedeli dicono di non appartenere ad alcuna religione."
 13 :
-    NAME : ""
+    NAME : "scientismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -159,7 +159,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 14 :
-    NAME : ""
+    NAME : "googlismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -167,7 +167,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 15 :
-    NAME : ""
+    NAME : "sikhismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -175,7 +175,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 16 :
-    NAME : ""
+    NAME : "drusismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -183,7 +183,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 17 :
-    NAME : ""
+    NAME : "samaritanesimo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -191,7 +191,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 18 :
-    NAME : ""
+    NAME : "rastafarianesimo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -199,7 +199,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 19 :
-    NAME : ""
+    NAME : "yazdanesimo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -207,7 +207,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 1A :
-    NAME : ""
+    NAME : "mandeismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -215,7 +215,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 1B :
-    NAME : ""
+    NAME : "religione popolare cinese"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -223,7 +223,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 1C :
-    NAME : ""
+    NAME : "tenrikyō"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -231,7 +231,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 1D :
-    NAME : ""
+    NAME : "religione delle ryūkyū"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -239,7 +239,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 1E :
-    NAME : ""
+    NAME : "ikuantao"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -247,7 +247,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 1F :
-    NAME : ""
+    NAME : "dongba"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -255,7 +255,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 20 :
-    NAME : ""
+    NAME : "via romana agli dei"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -263,7 +263,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 21 :
-    NAME : ""
+    NAME : "romuva"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -271,7 +271,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 22 :
-    NAME : ""
+    NAME : "dievturiba"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -279,7 +279,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 23 :
-    NAME : ""
+    NAME : "chiesa del popolo guancio"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -287,7 +287,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 24 :
-    NAME : ""
+    NAME : "hetanesimo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -295,7 +295,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 25 :
-    NAME : ""
+    NAME : "animismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -303,7 +303,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 26 :
-    NAME : ""
+    NAME : "sciamanesimo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -311,7 +311,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 27 :
-    NAME : ""
+    NAME : "totemismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -319,7 +319,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 28 :
-    NAME : ""
+    NAME : "feticismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -327,7 +327,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 29 :
-    NAME : ""
+    NAME : "culto degli antenati"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -335,7 +335,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 2A :
-    NAME : ""
+    NAME : "modewiwin"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -343,7 +343,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 2B :
-    NAME : ""
+    NAME : "tengrismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -351,7 +351,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 2C :
-    NAME : ""
+    NAME : "manituismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -359,7 +359,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 2D :
-    NAME : ""
+    NAME : "peyotismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -367,7 +367,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 2E :
-    NAME : ""
+    NAME : "danza degli spiriti"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -375,7 +375,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 2F :
-    NAME : ""
+    NAME : "maya"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -383,7 +383,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 30 :
-    NAME : ""
+    NAME : "marla"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -391,7 +391,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 31 :
-    NAME : ""
+    NAME : "sami"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -399,7 +399,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 32 :
-    NAME : ""
+    NAME : "mitologia inuit"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -407,7 +407,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 33 :
-    NAME : ""
+    NAME : "mitologia hawaiana"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -415,7 +415,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 34 :
-    NAME : ""
+    NAME : "culti aborigeni australiani"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -423,7 +423,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 35 :
-    NAME : ""
+    NAME : "culti malgasci"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -431,7 +431,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 36 :
-    NAME : ""
+    NAME : "bantu"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -439,7 +439,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 37 :
-    NAME : ""
+    NAME : "yoruba"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -447,7 +447,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 38 :
-    NAME : ""
+    NAME : "bwiti"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -455,7 +455,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 39 :
-    NAME : ""
+    NAME : "odinani"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -463,7 +463,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 3A :
-    NAME : ""
+    NAME : "masai"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -471,7 +471,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 3B :
-    NAME : ""
+    NAME : "ju-ju"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -479,7 +479,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 3C :
-    NAME : ""
+    NAME : "vudù"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -487,7 +487,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 3D :
-    NAME : ""
+    NAME : "candomblé"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -495,7 +495,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 3E :
-    NAME : ""
+    NAME : "obeah"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -503,7 +503,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 3F :
-    NAME : ""
+    NAME : "palo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -511,7 +511,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 40 :
-    NAME : ""
+    NAME : "santeria"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -519,7 +519,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 41 :
-    NAME : ""
+    NAME : "satanismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -527,7 +527,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 42 :
-    NAME : ""
+    NAME : "neopaganesimo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -535,7 +535,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 43 :
-    NAME : ""
+    NAME : "wicca"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -543,7 +543,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 44 :
-    NAME : ""
+    NAME : "pastafarianesimo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -551,7 +551,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 45 :
-    NAME : ""
+    NAME : "new age"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -559,7 +559,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 46 :
-    NAME : ""
+    NAME : "nuovo pensiero"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -567,7 +567,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 47 :
-    NAME : ""
+    NAME : "raelismo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -575,7 +575,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 48 :
-    NAME : ""
+    NAME : "thelema"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -583,7 +583,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 49 :
-    NAME : ""
+    NAME : "scientology"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -591,7 +591,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 4A :
-    NAME : ""
+    NAME : "unitariani universalisti"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -599,7 +599,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 4B :
-    NAME : ""
+    NAME : "eckankar"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -607,7 +607,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 4C :
-    NAME : ""
+    NAME : "mitologia greca antica"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -615,7 +615,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 4D :
-    NAME : ""
+    NAME : "mitologia egizia antica"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -623,7 +623,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 4E :
-    NAME : ""
+    NAME : "T.O.P.Y."
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -631,7 +631,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 4F :
-    NAME : ""
+    NAME : "invisibile unicorno rosa"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -639,7 +639,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 50 :
-    NAME : ""
+    NAME : "VHEMT"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -647,7 +647,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 51 :
-    NAME : ""
+    NAME : "religione dello jedi"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -655,7 +655,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 52 :
-    NAME : ""
+    NAME : "iglesia maradoniana"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -663,7 +663,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 53 :
-    NAME : ""
+    NAME : "culto della teiera gigante"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -671,7 +671,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 54 :
-    NAME : ""
+    NAME : "ku klux klan"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -679,7 +679,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 55 :
-    NAME : ""
+    NAME : "i bambini di Dio"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -687,7 +687,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 56 :
-    NAME : ""
+    NAME : "illuminati bavaresi"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -695,7 +695,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 57 :
-    NAME : ""
+    NAME : "Aum Shinrikyo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -703,7 +703,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 58 :
-    NAME : ""
+    NAME : "Il tempio del popolo dei discepoli di Cristo"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -711,7 +711,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 59 :
-    NAME : ""
+    NAME : "heaven’s gate"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -719,7 +719,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 5A :
-    NAME : ""
+    NAME : "la chiesa dell’eutanasia"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -727,7 +727,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 5B :
-    NAME : ""
+    NAME : "ordine del tempio solare"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -735,7 +735,7 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 5C :
-    NAME : ""
+    NAME : "#pizzagate"
     POINT.JIHAD : @
     POINT.JIHAD.BASIC : @
     EXPANSE_DEITY : @
@@ -743,13 +743,6 @@ F :
     EXPANSE_UNHOLY : @
     DESCRIPTION : "@"
 5D :
-    NAME : ""
-    POINT.JIHAD : @
-    POINT.JIHAD.BASIC : @
-    EXPANSE_DEITY : @
-    EXPANSE_PROPHET : @
-    EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
 5E :
 5F :
     NAME : "other"
