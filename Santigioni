@@ -549,7 +549,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "(FSM)@"
 45 :
     NAME : "new age"
     POINT.JIHAD : @
@@ -565,7 +565,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "È una religione.@"
 47 :
     NAME : "raelismo"
     POINT.JIHAD : @
@@ -589,7 +589,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "Diverso dal scientismo.@"
 4A :
     NAME : "unitariani universalisti"
     POINT.JIHAD : @
@@ -597,7 +597,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "(UU)@"
 4B :
     NAME : "eckankar"
     POINT.JIHAD : @
@@ -605,7 +605,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "(ECK)@"
 4C :
     NAME : "mitologia greca antica"
     POINT.JIHAD : @
@@ -629,7 +629,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "(Thee Temple ov Psychick Youth)@"
 4F :
     NAME : "invisibile unicorno rosa"
     POINT.JIHAD : @
@@ -637,7 +637,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "(Voluntary Human Extinction Movement)@"
 50 :
     NAME : "VHEMT"
     POINT.JIHAD : @
@@ -669,7 +669,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "Villaggio con case fatte a ombrelli e colonne greche.@"
 54 :
     NAME : "ku klux klan"
     POINT.JIHAD : @
@@ -677,7 +677,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "(KKK)@"
 55 :
     NAME : "i bambini di Dio"
     POINT.JIHAD : @
@@ -685,7 +685,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "Forse questa non va bene (pedofilia+sesso).@"
 56 :
     NAME : "illuminati bavaresi"
     POINT.JIHAD : @
@@ -709,7 +709,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "Forse questa non va bene (razzista contro neri e donne).@"
 59 :
     NAME : "heaven’s gate"
     POINT.JIHAD : @
@@ -741,7 +741,7 @@ F :
     EXPANSE_DEITY : @
     EXPANSE_PROPHET : @
     EXPANSE_UNHOLY : @
-    DESCRIPTION : "@"
+    DESCRIPTION : "Movimento contro le pizzerie basato sulla credenza di uno schiavismo collegato a esse.@"
 5D :
 5E :
 5F :
