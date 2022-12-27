@@ -1,0 +1,761 @@
+0 :
+    NAME : ""
+    POINT.JIHAD : 
+    POINT.JIHAD.BASIC : 
+    EXPANSE_DEITY : 
+    EXPANSE_PROPHET : 
+    EXPANSE_UNHOLY : 
+    DESCRIPTION : ""
+1 :
+    NAME : "cristianesimo"
+    POINT.JIHAD : 250
+    POINT.JIHAD.BASIC : 800
+    EXPANSE_DEITY : 300
+    EXPANSE_PROPHET : 500
+    EXPANSE_UNHOLY : 900
+    DESCRIPTION : "La religione più famosa del mondo. Una pietra miliare tra i monoteismi. Vinci la guerra santa a suon di roghi e crociate!"
+2 :
+    NAME : "islam"
+    POINT.JIHAD : 300
+    POINT.JIHAD.BASIC : 500
+    EXPANSE_DEITY : 250
+    EXPANSE_PROPHET : 500
+    EXPANSE_UNHOLY : 1100
+    DESCRIPTION : "@"
+3 :
+    NAME : "ebraismo"
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+4 :
+    NAME : "giudaismo"
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+5 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+6 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+7 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+8 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+9 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+A :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+B :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+C :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+D :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+E :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+F :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+10 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+11 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+12 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+13 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+14 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+15 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+16 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+17 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+18 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+19 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+1A :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+1B :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+1C :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+1D :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+1E :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+1F :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+20 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+21 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+22 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+23 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+24 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+25 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+26 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+27 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+28 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+29 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+2A :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+2B :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+2C :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+2D :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+2E :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+2F :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+30 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+31 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+32 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+33 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+34 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+35 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+36 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+37 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+38 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+39 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+3A :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+3B :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+3C :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+3D :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+3E :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+3F :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+40 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+41 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+42 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+43 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+44 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+45 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+46 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+47 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+48 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+49 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+4A :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+4B :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+4C :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+4D :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+4E :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+4F :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+50 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+51 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+52 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+53 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+54 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+55 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+56 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+57 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+58 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+59 :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+5A :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+5B :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+5C :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+5D :
+    NAME : ""
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
+5E :
+5F :
+    NAME : "other"
+    POINT.JIHAD : @
+    POINT.JIHAD.BASIC : @
+    EXPANSE_DEITY : @
+    EXPANSE_PROPHET : @
+    EXPANSE_UNHOLY : @
+    DESCRIPTION : "@"
