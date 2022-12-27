@@ -1,1 +1,188 @@
-
+"" : /* santigione */
+	FULL_NAME : ""
+	POINT.JIHAD :
+	POINT.JIHAD.BASIC :
+	EXPANSE_DEITY :
+	EXPANSE_PROPHET :
+	EXPANSE_UNHOLY :
+	DESCRIPTION : ""
+	EARNEST_DESCRIPTION : ""
+	JESARD : /* Gesùrta */
+		"" :
+			NAME : ""
+			FULL_NAME : ""
+			TYPE : ""
+			ATTACK :
+			DEFENSE :
+			HEALTH :
+			DESCRIPTION : ""
+			EARNEST_DESCRIPTION : ""
+			MOVE :
+				Satanossa.""
+"christianity" :
+	FULL_NAME : "christianity"
+	POINT.JIHAD : 250
+	POINT.JIHAD.BASIC : 800
+	EXPANSE_DEITY : 300
+	EXPANSE_PROPHET : 500
+	EXPANSE_UNHOLY : 900
+	DESCRIPTION : "La religione più famosa del mondo. Una pietra miliare tra i monoteismi. Vinci la guerra santa a suon di roghi e crociate!"
+	EARNEST_DESCRIPTION : "@@"
+	JESARD :
+		"God" :
+			NAME : "יהוה"
+			FULL_NAME : "God"
+			TYPE : "deity"
+			ATTACK : 500
+			DEFENSE : 100
+			HEALTH : 1200
+			DESCRIPTION : "Il suo vero nome non si sà, i cristiani non lo sanno perché gli ebrei se lo sono dimenticato. Per gli amici è semplicemente Dio."
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."creazione del mondo"
+				Satanossa."cespuglio"
+				Satanossa."Sodoma e Gomorra"
+		"Holy Spirit" :
+			NAME : "רוח הקודש"
+			FULL_NAME : "Holy Spirit"
+			TYPE : "deity"
+			ATTACK : 420
+			DEFENSE : 105
+			HEALTH : 1100
+			DESCRIPTION : "La parte più ambigua della santa Trinità, non ha forma né colore, ma sta intorno a noi anche se non lo percepiamo."
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."fuoco dal cielo"
+				Satanossa."colomba della pace"
+				Satanossa."plurilinguismo"
+		"Jesus" :
+			NAME : "יֵשׁוּעַ"
+			FULL_NAME : "Jesus Christ of Nazareth"
+			TYPE : "deity"
+			ATTACK : 350
+			DEFENSE : 130
+			HEALTH : 1000
+			DESCRIPTION : "Il classico Gesù Cristo, con croce, corona di spine e tutto il resto…"
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."resurrezione"
+				Satanossa."pani e pesci"
+				Satanossa."ultima cena"
+		"Mary" :
+			NAME : "מרים"
+			FULL_NAME : "Mary of Nazareth, mother of Jesus"
+			TYPE : "prophet"
+			ATTACK : 350
+			DEFENSE : 25
+			HEALTH : 800
+			DESCRIPTION : "La Madonna, l'immacolata e vergine Maria, non esiste niente di più santo e vergine."
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."immacolata concezione"
+		"Mark" :
+			NAME : "מרקוס"
+			FULL_NAME : "Saint Mark the Evangelist"
+			TYPE : "prophet"
+			ATTACK : 250
+			DEFENSE : 50
+			HEALTH : 600
+			DESCRIPTION : "@@"
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."vangelo"
+		"Luke" :
+			NAME : "Λουκάς"
+			FULL_NAME : "Saint Luke the Evangelist"
+			TYPE : "prophet"
+			ATTACK : 250
+			DEFENSE : 50
+			HEALTH : 600
+			DESCRIPTION : "Un normale evangelista, prima era medico, poi ha cambiato lavoro."
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."vangelo"
+				Satanossa."medico"
+		"John" :
+			NAME : "Ἰωάννης"
+			FULL_NAME : "Saint John the Apostle"
+			TYPE : "prophet"
+			ATTACK : 250
+			DEFENSE : 50
+			HEALTH : 600
+			DESCRIPTION : "@@"
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."vangelo"
+		"Zacchaeus" :
+			NAME : "זכי"
+			FULL_NAME : "Zacchaeus"
+			TYPE : "unholy"
+			ATTACK : 200
+			DEFENSE : 20
+			HEALTH : 500
+			DESCRIPTION : "Zaccheo, scendi dal sicomoro!"
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."esattore"
+		"Matthew" :
+			OUR_NAME : "Saint Matthew the Apostle and the Evangelist"
+			NAME : "מַתִּתְיָהוּ"
+			TYPE : "prophet"
+			ATTACK : 250
+			DEFENSE : 50
+			HEALTH : 600
+			DESCRIPTION : "Un normale evangelista, prima era esattore, poi ha cambiato lavoro. Per gli amici Levi."
+			EARNEST_DESCRIPTION : "@@"
+			MOVE :
+				Satanossa."vangelo"
+				Satanossa."esattore"
+"islam" :
+    FULL_NAME : "islam"
+    POINT.JIHAD : 300
+    POINT.JIHAD.BASIC : 500
+    EXPANSE_DEITY : 250
+    EXPANSE_PROPHET : 500
+    EXPANSE_UNHOLY : 1100
+    DESCRIPTION : "@@"
+	EARNEST_DESCRIPTION : "@@"
+	JESARD :
+		"Ḥawwā" :
+			NAME : "حواء"
+			FULL_NAME : "Ḥawwā"
+			TYPE : "unholy"
+			ATTACK : 30
+			DEFENSE : 40
+			HEALTH : 0
+			DESCRIPTION : "Eve in christianity"
+			EARNEST_DESCRIPTION : "@@"
+			MOVE : @@
+		"Allah" :
+			NAME : "اَلله"
+			FULL_NAME : "Allah"
+			TYPE : "deity"
+			ATTACK : 40
+			DEFENSE : 110
+			HEALTH : 0
+			DESCRIPTION : "@@"
+			EARNEST_DESCRIPTION : "@@"
+			MOVE : @@
+		"Jesus" :
+			NAME : "عِيسَى ٱبْنُ مَرْيَمَ"
+			FULL_NAME : "Jesus in islam, ʿĪsā ibn Maryam"
+			TYPE : "prophet"
+			ATTACK : 45
+			DEFENSE : 33
+			HEALTH : 0
+			DESCRIPTION : "@@"
+			EARNEST_DESCRIPTION : "@@"
+			MOVE : @@
+		"Muhammad" :
+			FULL_NAME : "Muhammad the prophet, messenger, servant of God, announcer, witness, bearer of good tidings, warner, reminder, one who calls [unto God], light personified, and the light-giving lamp"
+			NAME : "مُحَمَّد"
+			TYPE : "prophet"
+			ATTACK : 35
+			DEFENSE : 45
+			HEALTH : 0
+			DESCRIPTION : "@@"
+			EARNEST_DESCRIPTION : "@@"
+			MOVE : @@
