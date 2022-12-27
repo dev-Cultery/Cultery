@@ -114,14 +114,59 @@
     )
     DESCRIPTION : "Zaccheo, scendi dal sicomoro!"
 9 :
-    TRANSLATED_NAME : "Saʽid Ḥawwa"
-    NAME : "سعيد حوى"
+    TRANSLATED_NAME : "Ḥawwā"
+    NAME : "حواء"
     TYPE : unholy
-    RELIGION : christianity
-    ATTACK : 200
-    DEFENSE : 20
-    HEALTH : 500
+    RELIGION : islam
+    ATTACK : 30
+    DEFENSE : 40
+    HEALTH : 0
     MOVE_SET : .(
+    )
+    DESCRIPTION : ""
+A :
+    TRANSLATED_NAME : "Allah"
+    NAME : "اَلله"
+    TYPE : deity
+    RELIGION : islam
+    ATTACK : 40
+    DEFENSE : 110
+    HEALTH : 0
+    MOVE_SET : .(
+    )
+    DESCRIPTION : ""
+B :
+    TRANSLATED_NAME : "Jesus"
+    NAME : "عِيسَى ٱبْنُ مَرْيَمَ"
+    TYPE : prophet
+    RELIGION : islam
+    ATTACK : 45
+    DEFENSE : 33
+    HEALTH : 0
+    MOVE_SET : .(
+    )
+    DESCRIPTION : ""
+C :
+    TRANSLATED_NAME : "Muhammad"
+    NAME : "مُحَمَّد"
+    TYPE : prophet
+    RELIGION : islam
+    ATTACK : 35
+    DEFENSE : 45
+    HEALTH : 0
+    MOVE_SET : .(
+    )
+    DESCRIPTION : ""
+D :
+    TRANSLATED_NAME : "Saint Matthew"
+    NAME : "מַתִּתְיָהוּ"
+    TYPE : prophet
+    RELIGION : christianity
+    ATTACK : 250
+    DEFENSE : 50
+    HEALTH : 600
+    MOVE_SET : .(
+        "vangelo"
         "esattore"
     )
-    DESCRIPTION : "Zaccheo, scendi dal sicomoro!"
+    DESCRIPTION : "Un normale evangelista, prima era esattore, poi ha cambiato lavoro."
