@@ -1,60 +1,62 @@
-0 :
-    OUR_NAME : ""
-    NAME : ""
-    TYPE : ""
-    RELIGION : ""
-    ATTACK : 
-    DEFENSE : 
-    HEALTH : 
-    MOVE_SET : .(
-        ""
-    )
-    DESCRIPTION : ""
-1 :
-    OUR_NAME : "God"
-    NAME : "יהוה"
-    TYPE : "deity"
-    RELIGION : "christianity"
-    ATTACK : 500
-    DEFENSE : 100
-    HEALTH : 1200
-    MOVE_SET : Satanosse.(
-        "creazione del mondo"
-        "cespuglio"
-        "Sodoma e Gomorra"
-    )
-    DESCRIPTION : "Il suo vero nome è Jahvè, ma la maggior parte dei cristiani non lo sa.\nPer gli amici è semplicemente Dio."
-2 :
-    OUR_NAME : "Holy Spirit"
-    NAME : "רוח הקודש"
-    TYPE : "deity"
-    RELIGION : "christianity"
-    ATTACK : 420
-    DEFENSE : 105
-    HEALTH : 1100
-    MOVE_SET : .(
-        "fuoco dal cielo"
-        "colomba della pace"
-        "plurilinguismo"
-    )
-    DESCRIPTION : "La parte più ambigua della santa Trinità, non ha forma né colore, ma sta intorno a noi anche se non lo percepiamo."
-3 :
-    OUR_NAME : "Jesus"
-    NAME : "יֵשׁוּעַ"
-    TYPE : "deity"
-    RELIGION : "christianity"
-    ATTACK : 350
-    DEFENSE : 130
-    HEALTH : 1000
-    MOVE_SET : .(
-        "resurrezione"
-        "pani e pesci"
-        "ultima cena"
-    )
-    DESCRIPTION : "Il classico Gesù Cristo, con croce, corona di spine e tutto il resto…"
-4 :
-    OUR_NAME : "Mary"
+"" :
+    "" :
+        NAME : ""
+        FULL_NAME : ""
+        TYPE : ""
+        RELIGION : ""
+        ATTACK : 
+        DEFENSE : 
+        HEALTH : 
+        MOVE_SET : .(
+            ""
+        )
+        DESCRIPTION : ""
+"christianity" :
+    "God" :
+        NAME : "יהוה"
+        FULL_NAME : "God"
+        TYPE : "deity"
+        RELIGION : "christianity"
+        ATTACK : 500
+        DEFENSE : 100
+        HEALTH : 1200
+        MOVE_SET : Satanosse.(
+            "creazione del mondo"
+            "cespuglio"
+            "Sodoma e Gomorra"
+        )
+        DESCRIPTION : "Il suo vero nome è Jahvè, ma la maggior parte dei cristiani non lo sa.\nPer gli amici è semplicemente Dio."
+    "Holy Spirit" :
+        NAME : "רוח הקודש"
+        FULL_NAME : "Holy Spirit"
+        TYPE : "deity"
+        RELIGION : "christianity"
+        ATTACK : 420
+        DEFENSE : 105
+        HEALTH : 1100
+        MOVE_SET : .(
+            "fuoco dal cielo"
+            "colomba della pace"
+            "plurilinguismo"
+        )
+        DESCRIPTION : "La parte più ambigua della santa Trinità, non ha forma né colore, ma sta intorno a noi anche se non lo percepiamo."
+    "Jesus" :
+        NAME : "יֵשׁוּעַ"
+        FULL_NAME : "Jesus Christ of Nazareth"
+        TYPE : "deity"
+        RELIGION : "christianity"
+        ATTACK : 350
+        DEFENSE : 130
+        HEALTH : 1000
+        MOVE_SET : .(
+            "resurrezione"
+            "pani e pesci"
+            "ultima cena"
+        )
+        DESCRIPTION : "Il classico Gesù Cristo, con croce, corona di spine e tutto il resto…"
+"Mary" :
     NAME : "מרים"
+    FULL_NAME : "Mary of Nazareth, mother of Jesus"
     TYPE : "prophet"
     RELIGION : "christianity"
     ATTACK : 350
@@ -64,9 +66,9 @@
         "immacolata concezione"
     )
     DESCRIPTION : "La Madonna, l'immacolata e vergine Maria, non esiste niente di più santo e vergine."
-5 :
-    OUR_NAME : "Mark"
+"Mark" :
     NAME : "מרקוס"
+    FULL_NAME : "Saint Mark the Evangelist"
     TYPE : "prophet"
     RELIGION : "christianity"
     ATTACK : 250
@@ -76,9 +78,22 @@
         "vangelo"
     )
     DESCRIPTION : ""
-7 :
-    OUR_NAME : "Luke"
+"Luke" :
     NAME : "Λουκάς"
+    FULL_NAME : "Saint Luke the Evangelist"
+    TYPE : "prophet"
+    RELIGION : "christianity"
+    ATTACK : 250
+    DEFENSE : 50
+    HEALTH : 600
+    MOVE_SET : .(
+        "vangelo"
+        "medico"
+    )
+    DESCRIPTION : "Un normale evangelista, prima era medico, poi ha cambiato lavoro."
+"John" :
+    NAME : "Ἰωάννης"
+    FULL_NAME : "Saint John the Apostle"
     TYPE : "prophet"
     RELIGION : "christianity"
     ATTACK : 250
@@ -87,10 +102,10 @@
     MOVE_SET : .(
         "vangelo"
     )
-    DESCRIPTION : ""
-8 :
-    OUR_NAME : "Zacchaeus"
+    DESCRIPTION : "@"
+"Zacchaeus" :
     NAME : "זכי"
+    FULL_NAME : "Zacchaeus"
     TYPE : "unholy"
     RELIGION : "christianity"
     ATTACK : 200
@@ -100,9 +115,9 @@
         "esattore"
     )
     DESCRIPTION : "Zaccheo, scendi dal sicomoro!"
-9 :
-    OUR_NAME : "Ḥawwā"
+"Ḥawwā" :
     NAME : "حواء"
+    FULL_NAME : "Ḥawwā"
     TYPE : "unholy"
     RELIGION : "islam"
     ATTACK : 30
@@ -111,9 +126,9 @@
     MOVE_SET : .(
     )
     DESCRIPTION : ""
-A :
-    OUR_NAME : "Allah"
+"Allah" :
     NAME : "اَلله"
+    FULL_NAME : "Allah"
     TYPE : "deity"
     RELIGION : "islam"
     ATTACK : 40
@@ -122,9 +137,9 @@ A :
     MOVE_SET : .(
     )
     DESCRIPTION : ""
-B :
-    OUR_NAME : "Jesus"
+"Jesus" :
     NAME : "عِيسَى ٱبْنُ مَرْيَمَ"
+    FULL_NAME : "Jesus"
     TYPE : "prophet"
     RELIGION : "islam"
     ATTACK : 45
