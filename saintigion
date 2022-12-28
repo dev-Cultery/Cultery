@@ -147,7 +147,7 @@
 	SATANOVEGION :
 		"crociata" :
 			FULL_NAME : "crociata"
-			COST : @@
+			COST : 0
 			EFFECT_ITSELF :
 				"Porta vita del personaggio a 100."
 				"Guadagna punti jihad quanti di vita persi."
@@ -157,7 +157,7 @@
 		"catechismo" :
 			FULL_NAME : "catechismo"
 			COST : 300
-			EFFECT_ITSELF : @@
+			EFFECT_ITSELF : none
 			EFFECT_OPPONENT :
 				"Diminuisce attacco personaggio del 40%."
 			DESCRIPTION : "Indottrina i bambini a seguire la tua religione! (Iniziare a 6 anni potrebbe già essere troppo tardi!)"
@@ -191,7 +191,7 @@
 	EXPANSE_PROPHET : 500
 	EXPANSE_UNHOLY : 1100
 	JESARD :
-		"Ḥawwā" :
+		"Eve" :
 			NAME : "حواء"
 			FULL_NAME : "Ḥawwā"
 			TYPE : "unholy"
@@ -753,6 +753,29 @@
 	EARNEST_DESCRIPTION : "@@"
 "mitologia inuit" :
 	FULL_NAME : "mitologia inuit"
+	POINT.JIHAD : @@
+	POINT.JIHAD.BASIC : @@
+	EXPANSE_DEITY : @@
+	EXPANSE_PROPHET : @@
+	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
+	DESCRIPTION : "@@"
+	EARNEST_DESCRIPTION : "@@"
+"communism" :
+	FULL_NAME : "communism"
+	POINT.JIHAD : @@
+	POINT.JIHAD.BASIC : @@
+	EXPANSE_DEITY : @@
+	EXPANSE_PROPHET : @@
+	EXPANSE_UNHOLY : @@
+	JESARD : @@
+	SATANOVEGION : @@
+	DESCRIPTION : "@@"
+	EARNEST_DESCRIPTION : "@@"
+"nazism" :
+	NAME : "Nationalsozialismus"
+	FULL_NAME : "national-socialism"
 	POINT.JIHAD : @@
 	POINT.JIHAD.BASIC : @@
 	EXPANSE_DEITY : @@
