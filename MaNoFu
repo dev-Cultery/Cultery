@@ -1,3 +1,5 @@
+/// CUltery è bello :) :] :} ·) (←polifemo)
+
 when game_open
 	execute loading_screen
 	execute display screen."home"
@@ -7,6 +9,7 @@ screen ( name : screen."home" )
 		btn ( img : img."shop" ) ( name : btn."shop" ) ( when click : execute display screen."shop" )
 		btn ( img : img."userCharacter" ) ( name : btn."userCharacter" ) ( when click : execute display screen."userCharacter" )
 		btn ( img : img."achievements" ) ( name : btn."achievements" ) ( when click : execute display screen."achievements" )
+		btn ( name : screen."supportUs" ) ( when click : execute display screen."supportUs" ) ( img : img."supportUs" )
 		btn ( img : img."stats" ) ( name : btn."stats" ) ( when click : execute display screen."stats" )
 	btn ( position : top center /* sotto btn*/ ) ( img : img."religionPoints" ) ( name : btn."religionPoints" ) ( inside : execute visualize screen."religionPoints" )
 	nav ( position : mid )
@@ -18,49 +21,119 @@ screen ( name : screen."settings" )
 	@@@@@@@@@@@
 	// a tendina (proprio una tenda)
 	btn ( position : top right ) ( name : btn."cameBack" ) ( img : img."X" ) ( when click : execute display screen."home" )
-	· music
-	· sounds
-		· sound effects ( bar )
-		· change name ( bar )
-		· vibration
-	· riconosciamoci
-	· follow us
-	· language
-	· theme (dark/light)
+	· generalAudio ( bar )
 	· btn ( onclick : execute display screen."otherSettings" )
+	· language
+	· btn ( onlick : execute display screen."credits" )
+screen ( name : screen."otherSettings" )
+	@@@@@@@@@@@
+	btn ( position : top right ) ( name : btn."cameBack" ) ( img : img."X" ) ( when click : execute display screen."home" )
+	· change name
+	· sounds & vibration
+		· generalAudio ( bar )
+		· music ( bar )
+		· sound effects ( bar )
+		· vibration
+	· btn ( onlick : execute display screen."credits" )
+	· follow us
+	· theme (dark/light)
 	· help
 	· notifiche
 	· resolution
 	· btn ( onclick : execute display screen."stats" )
-screen ( name : screen."otherSettings" )
-	@@@@@@@@@@@
+	· btn ( onclick : execute display screen."devSettings" )
+screen ( name : screen."devSettings" )
+	@@@@@@@@@@@@@@@@@@@@@
+	btn ( position : top right ) ( name : btn."home" ) ( img : img."home" ) ( when click : execute display screen."home" )
 screen ( name : screen."userCharacter" )
 	@@@@@@@@@@@@@@@@@@@@@@
+	btn ( position : top right ) ( name : btn."home" ) ( img : img."home" ) ( when click : execute display screen."home" )
 	· scegli img profilo
 	· scegli nome
 	· scegli stemma
 	· scegli forma crocifisso
-screan ( name : screen."stats" )
+screen ( name : screen."stats" )
 	@@@@@@@@@@@
+	btn ( position : top right ) ( name : btn."home" ) ( img : img."home" ) ( when click : execute display screen."home" )
 	btn ( img : img."userCharacter" ) ( name : btn."userCharacter" ) ( when click : execute display screen."userCharacter" )
+	· // troferi coppe soldi robe così
+	· tempi
+		· orario di adesso
+		· tempo totale
+			· totale
+			· gioco //da quando installato, anche off-line
+			· inPartita
+		· tempo online
+			· totale
+			· inPartita
+		· tempo local
+			· totale
+			· inPartita
+		· tempo partite serie // non amichevoli
+			· totale
+			· inPartita
+		· tempo amichevoli
+			· totale
+			· inPartita
+		// il tutto visualizzabile a scelta in "s", "m", "h", "d", "h m s", o altri formati
+			// cambiano quando ci schjiacci cambia formato
+			// tieni premuto e scegli il formato direttamente
+	· partite
+		· online
+			· giocate
+			· finite
+			· abbandonate
+			· vinte
+			· pareggiate
+			· perse
+		· amicheboli
+			· giocate
+			· finite
+			· abbandonate
+			· vinte
+			· pareggiate
+			· perse
+		· local
+			· giocate
+			· finite
+			· abbandonate
+			· non pareggiate
+			· pareggiate
+	· // archivments veri e propri tipo gli obbiettivi fatti e da fare, tipo stare on 100h, sbloccare delle religioni, altro
+		// quando sbloccano gli archivments direi che vengono qui a schiacciarci sopra e ci guadagnano qualcosa
 	· id giocatore
-	· tempo giocato
-	· online
-		· partite vinte
-		· partite pareggiate
-		· partite perse
-screan ( name : screen."playLocal" )
+screen ( name : screen."playLocal" )
 	@@@@@@@@@@
-screan ( name : screen."playOnline" )
+	btn ( position : top right ) ( name : btn."home" ) ( img : img."home" ) ( when click : execute display screen."home" )
+screen ( name : screen."playOnline" )
 	@@@@@@@
-screan ( name : screen."selectReligion" )
+	btn ( position : top right ) ( name : btn."home" ) ( img : img."home" ) ( when click : execute display screen."home" )
+screen ( name : screen."selectReligion" )
 	@@@@@@@@@
-screan ( name : screen."shop" )
+	btn ( position : top right ) ( name : btn."home" ) ( img : img."home" ) ( when click : execute display screen."home" )
+screen ( name : screen."shop" )
 	@@@@@@@@@
 	// compra l'acqua santa da usare in partita !
-screan ( name : screen."achievements" )
+	btn ( position : top right ) ( name : btn."home" ) ( img : img."home" ) ( when click : execute display screen."home" )
+	· btn supportUs  // pagaci gratis elemosina tanto e voglici tanto bene <3
+screen ( name : screen."achievements" )
 	@@@@@@@@@
+screen ( name : screen."credits" )
+	btn ( position : top right ) ( name : btn."home" ) ( img : img."home" ) ( when click : execute display screen."home" )
+	· btn supportUs  // pagaci gratis elemosina tanto e voglici tanto bene <3
+	· btn supportUs  // pagaci gratis elemosina tanto e voglici tanto bene <3
+	· btn supportUs  // pagaci gratis elemosina tanto e voglici tanto bene <3
+	· riconosciamoci
+	· btn supportUs  // pagaci gratis elemosina tanto e voglici tanto bene <3
+	· btn supportUs  // pagaci gratis elemosina tanto e voglici tanto bene <3
+	· btn supportUs  // pagaci gratis elemosina tanto e voglici tanto bene <3
+screen ( name : screen."supportUs" )
+	// io non metterei il pulsante per tornare indietro HAHAHA
+	// pagaci gratis elemosina tanto e voglici tanto bene <3
+	@@@@@@@@@@@@@@
+	· btn /*pulsante per pagarci*/ !important
 stemma
+	@@@@@@@@
 	// ci sono quelli delle religioni
 	// quelli speciali
 when online
@@ -72,4 +145,4 @@ when vinciPartita
 		· qualcosa tipo ~monete
 		· qualcosa tipo ~coppe
 		· qualcosa tipo ~altro
-			· tra cui forse religioni (se tipo abbastanza punti di qualcosa puoi scegliere se spenderli sbloccando religione ma solo quando ti viene offerta qst possibilità ) o carte
+			· @@ tra cui forse religioni (se tipo abbastanza punti di qualcosa puoi scegliere se spenderli sbloccando religione ma solo quando ti viene offerta qst possibilità ) o carte
