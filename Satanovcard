@@ -1,0 +1,118 @@
+"" : /* Satanosscarta */
+	FULL_NAME : ""
+	COST :
+	EFFECT_ITSELF :
+		""
+	EFFECT_OPPONENT :
+		""
+	DESCRIPTION : ""
+	EARNEST_DESCRIPTION : ""
+"resurrezione" :
+	FULL_NAME : "resurrezione"
+	COST : 500
+	EFFECT_ITSELF :
+		"Gesù ricompare dopo 3 turni con scudo diminuito del 50%, attacco ridotto del 30% e senza possibilità di eseguire altre mosse."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "Il gioco di magia più ambito del mondo!: Un giorno sei in un sepolcro e quello dopo passeggi per Gerusalemme."
+	EARNEST_DESCRIPTION : "@@"
+"pani-pesci" :
+	FULL_NAME : "pani e pesci"
+	COST : 600
+	EFFECT_ITSELF :
+		"Punti jihad guadagnati nel prossimo turno ×3."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "Gesù divise 5 pani e 2 pesci e tutta la folla ne mangiò fino a sazietà. Il sogno di qualsiasi comunista."
+	EARNEST_DESCRIPTION : "@@"
+"ultima cena" :
+	FULL_NAME : "ultima cena"
+	COST : 250
+	EFFECT_ITSELF :
+		"Si attiva solo se Gesù muore entro il turno successivo."
+		"Aumenta scudo del prossimo personaggio del 60%."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "“Egli prese il pane, lo spezzò, lo diede ai suoi discepoli e disse: «Prendete e mangiatene tutti, questo è il mio corpo, offerto in sacrificio per voi.».„."
+	EARNEST_DESCRIPTION : "@@"
+"fuoco-cielo" :
+	FULL_NAME : "fuoco dal cielo"
+	COST : @@
+	EFFECT_ITSELF : none
+	EFFECT_OPPONENT :
+		"Rimuove 150pt vita all'avversario per ogni turno fino a fine partita."
+	DESCRIPTION : "Lo spirito Santo sì può manifestare come “una pioggia di fuoco che cade dal cielo„. Molto confortante!"
+	EARNEST_DESCRIPTION : "@@"
+"colomba-pace" :
+	FULL_NAME : "colomba della pace"
+	COST : 150
+	EFFECT_ITSELF :
+		"Aumenta scudo del 5%."
+		"Aumenta vita del 10%."
+	EFFECT_OPPONENT :
+		"Riduce attacco per tutti i personaggi del 10%."
+	DESCRIPTION : "Se vedi una colomba prendere il volo la metà delle volte è lo Spirito Santo che ti sta mostrando la bellezza della pace. Perché la pace si fà a “ferro e fuoco„!"
+	EARNEST_DESCRIPTION : "@@"
+"esattore" :
+	FULL_NAME : "esattore"
+	COST : 100
+	EFFECT_ITSELF :
+		"Ruba il 65% dei punti jihad all'avversario; Li restituisce tre turni dopo. Se non sarà in grado di restituirli perde la partita."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "Tasse e religione hanno sempre un rapporto particolare."
+	EARNEST_DESCRIPTION : "@@"
+"creazione-mondo" :
+	FULL_NAME : "creazione del mondo"
+	COST : 700
+	EFFECT_ITSELF :
+		"Se Dio rimane in vita per 7 turni a partire da quando la usi, al settimo vinci la partita."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "Anche Dio il settimo turno si riposa!"
+	EARNEST_DESCRIPTION : "@@"
+"cespuglio" :
+	FULL_NAME : "cespuglio"
+	COST : 350
+	EFFECT_ITSELF :
+		"Diminuisce i danni subiti nel prossimo turno del 95%."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "Il cespuglio che arde, ma non brucia, meglio di Dynamo."
+	EARNEST_DESCRIPTION : "@@"
+"Sodoma-Gomorra" :
+	FULL_NAME : "Sodoma e Gomorra"
+	COST : 500
+	EFFECT_ITSELF : none
+	EFFECT_OPPONENT :
+		"Il personaggio muore."
+	DESCRIPTION : "Un puro e sano genocidio, come insegna l'antico testamento!"
+	EARNEST_DESCRIPTION : "@@"
+"plurilinguismo" :
+	FULL_NAME : "plurilinguismo"
+	COST : 300
+	EFFECT_ITSELF :
+		"Per tutta la partita se evochi un personaggio prima che il precedente muoia gli verranno trasferiti i punti vita rimanenti."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "“Ed essi furono tutti pieni di Spirito Santo e cominciarono a parlare in altre lingue„!"
+	EARNEST_DESCRIPTION : "@@"
+"medico" :
+	FULL_NAME : "medico"
+	COST : 100
+	EFFECT_ITSELF :
+		"Cura tutti suoi punti vita."
+	EFFECT_OPPONENT :
+		"Aggiunge, se persi in precedenza, 100pt vita."
+	DESCRIPTION : "“Non mi interessa quali siano i tuoi amici immaginari, il giuramento di Ippocrate vale comunque!„"
+	EARNEST_DESCRIPTION : "@@"
+"vangelo" :
+	FULL_NAME : "vangelo"
+	COST : @@
+	EFFECT_ITSELF :
+		"Si ferma un turno."
+		"Incrementa l'attacco del 60%."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "Anche i migliori scrittori hanno bisogno del loro tempo!"
+	EARNEST_DESCRIPTION : "@@"
+"immacolata concezione" :
+	FULL_NAME : "immacolata concezione"
+	COST : @@
+	EFFECT_ITSELF :
+		"Quando la Madonna muore arriva Gesù."
+	EFFECT_OPPONENT : none
+	DESCRIPTION : "Raga, vi giuro, è stato lo spirito Santo!"
+	EARNEST_DESCRIPTION : "@@"
