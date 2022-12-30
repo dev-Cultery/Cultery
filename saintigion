@@ -5,6 +5,27 @@
 	EXPANSE_DEITY :
 	EXPANSE_PROPHET :
 	EXPANSE_UNHOLY :
+	NAME_DEITY : ""
+	NAME_PROPHET : ""
+	NAME_UNHOLY : ""
+	TYPE : ""
+	WHAT : "" // Cosa?
+	WHAT_FOR : "" // Per che cosa credi?
+	WHEN : "" // Quando?
+	WHERE : "" // Dove?
+	WHOM : "" // Chi (persona) è il fine di ciò?
+	WHICH : "" // Tra cosa scegli?
+	WHOSE : "" // Di chi è proprietà?
+	WHY : "" // Perché?
+	WHY_DONT : "" // Perché no?
+	HOW : "" // Come?
+	HOW_FAR : "" // Quanto distante?
+	HOW_LONG : ""
+	HOW_MANY : ""
+	HOW_MUCH : ""
+	HOW_OLD : ""
+	HOW_COME : ""
+	WHO : ""
 	JESARD : /* Gesùrta */
 		"" :
 			NAME : ""
@@ -36,6 +57,27 @@
 	EXPANSE_DEITY : 300
 	EXPANSE_PROPHET : 500
 	EXPANSE_UNHOLY : 900
+	NAME_DEITY : "deity"
+	NAME_PROPHET : "prophet"
+	NAME_UNHOLY : "unholy"
+	TYPE : "monotheist"
+	WHAT : "Il cristianesimo." // Cosa?
+	WHAT_FOR : "La vita eterna, andare a messa tutte le domeniche." // Per che cosa credi?
+	WHEN : "Tutte le domeniche, da circa il 30 d.C.." // Quando?
+	WHERE : "Antica palestina, antico impero romano; poi vendute miliardi di copie in tutto il mondo." // Dove?
+	WHOM : "A tutti quanti." // Chi (persona) è il fine di ciò?
+	WHICH : "Tra Dio, Gesù e lo Spirito Santo." // Tra cosa scegli?
+	WHOSE : "Del Papa." // Di chi è proprietà?
+	WHY : "Un po' perché fanno le crociate, un po' perché creano vino dall'acqua; il sogno di qualsiasi alcoolista! Insomma: perché sì." // Perché?
+	WHY_DONT : "Perché ci sono più uccisi che rianimati (2; nomi: Gesù e Lazzaro; età: ~30 e boh; numero del citofono: 33 e 42), si vede che non erano molto bravi in medicina." // Perché no?
+	HOW : "Con tante crociate fallite e tanta elemosina supplicata." // Come?
+	HOW_FAR : "Circa 250 miglia (sull'ISS sono cristiani!)." // Quanto distante?
+	HOW_LONG : ""
+	HOW_MANY : ""
+	HOW_MUCH : ""
+	HOW_OLD : ""
+	HOW_COME : ""
+	WHO : "Inizialmente Gesù gcristo, poi i cristiani."
 	JESARD :
 		"God" :
 			NAME : "יהוה"
