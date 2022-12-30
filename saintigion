@@ -9,6 +9,9 @@
 	NAME_PROPHET : ""
 	NAME_UNHOLY : ""
 	TYPE : ""
+	// who why when .. ref : URL
+		https://games4esl.com/list-of-wh-questions-in-english/
+		https://www.englishclub.com/vocabulary/wh-question-words.htm
 	WHAT : "" // Cosa?
 	WHAT_FOR : "" // Per che cosa credi?
 	WHEN : "" // Quando?
