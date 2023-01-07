@@ -1292,6 +1292,21 @@
 	SATANOVEGION : @@
 	DESCRIPTION : "Movimento contro le pizzerie basato sulla credenza di uno schiavismo collegato a esse.@@"
 	EARNEST_DESCRIPTION : "@@"
+"pacifismo" :
+	FULL_NAME : "pacifismo"
+	POINT.JIHAD : @@
+	POINT.JIHAD.BASIC : @@
+	EXPANSE_DEITY : @@
+	EXPANSE_PROPHET : @@
+	EXPANSE_UNHOLY : @@
+	NAME_DEITY : "filosofi"
+	NAME_PROPHET : "nobel per la pace"
+	NAME_UNHOLY : "diplomtici"
+	TYPE : ""
+	JESARD : @@
+	SATANOVEGION : @@
+	DESCRIPTION : "@@"
+	EARNEST_DESCRIPTION : "@@"
 "oth" :
 	FULL_NAME : "other religions"
 	POINT.JIHAD : @@
