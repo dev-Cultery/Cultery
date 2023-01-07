@@ -113,6 +113,15 @@
 	COST : @@
 	EFFECT_ITSELF :
 		"Quando la Madonna muore arriva Gesù."
-	EFFECT_OPPONENT : none
-	DESCRIPTION : "Raga, vi giuro, è stato lo spirito Santo!"
+"niggabus fire" :
+	FULL_NAME : ""
+	COST : ""
+	EFFECT_ITSELF :
+		""
+	EFFECT_OPPONENT :
+		""
+	DESCRIPTION : ""
+	EARNEST_DESCRIPTION : ""
+	EFFECT_OPPONENT : "-90% vita se l'avversario è nero"
+	DESCRIPTION : "quando non sai cosa fare la domenica sera"
 	EARNEST_DESCRIPTION : "@@"
